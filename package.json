@@ -1,0 +1,16 @@
+{
+	"name": "JadeWebChat",
+	"version": "0.0.1",
+	"description": "WebChat to solve Queries",
+	"author": "Krishna",
+	"dependencies": {
+		"body-parser": "^1.18.3",
+		"clone": "^2.1.2",
+		"express": "^4.16.3",
+		"jade": "^1.11.0",
+		"module": "^1.2.5",
+		"pug": "^2.0.3",
+		"socket.io": "^1.7.4",
+		"uniqid": "^5.0.3"
+	}
+}
